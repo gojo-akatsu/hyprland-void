@@ -1,0 +1,7 @@
+install python-devel (for waypaper build)
+
+sudo ln -s /whole/path/to/script.extension /bin/weather or /usr/bin/name_executable_file
+
+# To display emojis correctly
+sudo xbps-install noto-fonts-emoji
+
